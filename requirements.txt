@@ -2,6 +2,6 @@ numpy>=1.10.0
 scipy>=0.13.3
 urllib3==1.22
 cx_freeze==6.0b1
-pytest==3.4.2
+pytest==3.2.2
 pytest-cov==2.5.1
-pytest-dependency==0.2
+pytest-dependency==0.3.2
